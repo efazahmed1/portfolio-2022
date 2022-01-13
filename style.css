@@ -1,0 +1,40 @@
+body{
+font-family: 'Poppins', sans-serif;
+}
+
+.vertical{
+    border-left:3px solid tomato;
+    position: absolute;
+    height: 120px;
+    left: 90px;
+    top: 150px;
+    border-radius: 20%;   
+}
+h1{
+    font-size: 50px;
+    line-height: 40px;
+}
+.box{
+    color: blue;
+}
+section{
+    display: flex;
+   margin-left: 100px;
+}
+.first-sec{
+width: 40%;
+}
+.first-sec img{
+    width: 120%;
+}
+
+ .button{ 
+text-decoration: none;
+ background-image: linear-gradient( orange, tomato);
+ padding: 10px 40px; 
+ color: white;
+ border-radius: 5px;
+}
+.tomvai{
+    font-size: 15px;
+}
