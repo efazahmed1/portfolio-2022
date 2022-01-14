@@ -34,6 +34,7 @@ text-decoration: none;
  padding: 10px 40px; 
  color: white;
  border-radius: 5px;
+ margin-top: 20%;
 }
 .tomvai{
     font-size: 15px;
@@ -70,4 +71,33 @@ text-decoration: none;
 #box1{
    background-color:  darkkhaki;
 }
+.second-sec{
+    width: 50%;
+}
+.second-sec img{
+width: 70%;
+}
+.down{
+    margin: 100px;
+    display: flex;
+}
+.first-id{
 
+background-repeat: no-repeat;
+background-image: url(shapes/shape-1.png);
+background-size: 30%;
+background-position:left;
+}
+/* .third-sec{
+    width: 50%;
+}
+.third-sec img{
+    width: 80%;
+}
+.second-id{
+background-repeat: no-repeat;
+background-image: url(shapes/shape-1.png);
+background-size: 25%;
+background-position:right; */
+
+}
