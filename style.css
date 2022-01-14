@@ -38,3 +38,36 @@ text-decoration: none;
 .tomvai{
     font-size: 15px;
 }
+.text-color{
+    color: coral;
+}
+.senter{
+    text-align: center;
+    margin-top: 100px;
+}
+.my-mission{
+    display: flex;
+}
+.mission{
+    width: 50%;
+    margin-left: 2px;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.mission img{
+    width: 80px;
+}
+#box3{ 
+    background-color: cyan;
+}
+#box2{
+    background-color: darkgoldenrod;
+}
+#box1{
+   background-color:  darkkhaki;
+}
+
