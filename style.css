@@ -88,7 +88,7 @@ background-image: url(shapes/shape-1.png);
 background-size: 30%;
 background-position:left;
 }
-/* .third-sec{
+.third-sec{
     width: 50%;
 }
 .third-sec img{
@@ -98,6 +98,33 @@ background-position:left;
 background-repeat: no-repeat;
 background-image: url(shapes/shape-1.png);
 background-size: 25%;
-background-position:right; */
+background-position:right;
+}
+.orange{
+    color: tomato;
 
+}
+#hreat{
+    text-align: center;
+}
+.forth-sec{
+    width: 50%; 
+}
+.forth-sec img{
+    width: 80%
+}
+.stay{
+    margin: 100px;
+    display: flex;
+}
+#ten{
+    margin-top: 100px;
+}
+
+
+footer{
+text-align: center;
+color: white;
+background-color: black;
+padding: 20px;
 }
